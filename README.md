@@ -6,7 +6,7 @@ Submitted by: **Your Name Here**
 
 Time spent: **X** hours spent in total
 
-## Required Features
+## Required 
 
 The following **required** functionality is completed:
 
